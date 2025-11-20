@@ -1,16 +1,45 @@
-## Hi there 👋
+# Leonardo Andrade
 
-<!--
-**leoandradej/leoandradej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-End com formação em Design e experiência prévia em atendimento e processos operacionais — hoje aplico esses aprendizados para construir interfaces claras, funcionais e centradas no usuário.
 
-Here are some ideas to get you started:
+Atualmente, foco em **React**, **JavaScript** e boas práticas de desenvolvimento. Busco atuar na construção de produtos digitais escaláveis, com foco em experiência do usuário, colaboração e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Stack Atual
+
+**Front-End:** HTML · CSS · JavaScript · React  
+**Ferramentas:** Git/GitHub · Figma · VS Code  
+**Estudando agora:** TypeScript · Next.js · Testes (Jest/Vitest) · Consumo de APIs REST
+
+---
+
+## 🚀 Projetos em Destaque
+
+> Todos os projetos foram construídos com foco em boas práticas, componentização e código legível.  
+
+| Projeto | Descrição | Tecnologias | Link |
+|--------|-----------|-------------|------|
+| **Travel App** | Busca de destinos com API externa e rotas dinâmicas. | React, React Router, Fetch API | 🔗 github.com/leoandradej/travel-app |
+| **CV Builder** | Gerador de currículo com edição em tempo real. | React, Tailwind, Zod | 🔗 *em desenvolvimento* |
+| **GitHub Portfolio** | Estrutura para apresentação profissional de projetos. | Markdown | 🔗 github.com/leoandradej |
+
+---
+
+## 📌 Sobre Mim
+
+- Concluí o **Programa Desenvolve – Grupo Boticário (2025)**, trilha de desenvolvimento front-end com projetos práticos, mentorias e desafios semanais.
+- Tenho facilidade em aprender tecnologias novas e transformar ideias em interface.
+- Prezo por organização, clareza e entregas consistentes.
+
+---
+
+## 🎯 Objetivo
+
+Atuar como **Desenvolvedor Front-End Junior**, integrando equipes que valorizam colaboração, evolução técnica e foco no usuário final.
+
+---
+
+📬 **Contato**  
+**E-mail:** leo.oandradej@gmail.com  
+**LinkedIn:** linkedin.com/in/leonardoandradej
