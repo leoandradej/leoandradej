@@ -20,9 +20,10 @@ Atualmente, foco em **React**, **JavaScript** e boas práticas de desenvolviment
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|-------------|------|
-| **Travel App** | Busca de destinos com API externa e rotas dinâmicas. | React, React Router, Fetch API | 🔗 github.com/leoandradej/travel-app |
-| **CV Builder** | Gerador de currículo com edição em tempo real. | React, Tailwind, Zod | 🔗 *em desenvolvimento* |
-| **GitHub Portfolio** | Estrutura para apresentação profissional de projetos. | Markdown | 🔗 github.com/leoandradej |
+| **Devevents** | Aplicação para gerenciamento de eventos da área de tecnologia.
+Foco em arquitetura limpa, rotas dinâmicas e organização eficiente das informações. | React + TypeScript com tipagem segura para os dados dos eventos, Estrutura de componentes reutilizáveis, Uso de React Router para navegação, Organização pensando em escalabilidade e manutenção futura. | 🔗 github.com/leoandradej/devevents |
+| **Travel App** | Interface para simular destinos de viagem com dados obtidos de uma API externa. | Consumo de API com fetch + tratamento de erros, Rotas com React Router v7, Componentização + organização de pastas, Layout responsivo utilizando CSS e boas práticas de UI | 🔗 github.com/leoandradej/travel-app |
+| **YC Directory** | Criado para listar e categorizar startups/comunidades de forma organizada e filtrável. | Organização de dados em estrutura modular, Componentização de cards, filtros e listas para reuso, Primeiros passos com estado global e lógica de filtragem | 🔗 github.com/leoandradej/yc_directory |
 
 ---
 
